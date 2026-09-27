@@ -89,4 +89,5 @@ Weapon tier lists, map mechanics, and removed-weapon lists reflect the meta at t
 
 Author
 
-Built by Shishir as part of a self-directed LLM & Agentic AI development learning roadmap
+Built by Shishir Negi
+
